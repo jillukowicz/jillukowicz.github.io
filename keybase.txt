@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jillukowicz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://endtroduc.in
+  * I am jillukowicz (https://keybase.io/jillukowicz) on keybase.
+  * I have a public key ASBsKr3DLm4L_fgJuWS4noeZfgmfeSIqV9fwzSxXY697pQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010df984585523d520124792d936a66999f1490d099affda2de4cc79423353a4010a",
+      "host": "keybase.io",
+      "kid": "01206c2abdc32e6e0bfdf809b964b89e87997e099f79222a57d7f0cd2c5763af7ba50a",
+      "uid": "61f505ef6badd6f527a988ddd0002619",
+      "username": "jillukowicz"
+    },
+    "merkle_root": {
+      "ctime": 1508930284,
+      "hash": "5b25d5a8ea99a4400634d398dda9600dbe5669fc0d2aa9b605f62855fabe44d072a1ac7f3c27f8215af2a01eaac96ba3412f07d45b266b699d7ca080eba250cf",
+      "hash_meta": "917ef4522e96cd0e6730fda11111a179ae95809d3ac6a88a6a045e7b92307392",
+      "seqno": 1627192
+    },
+    "service": {
+      "hostname": "endtroduc.in",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508930316,
+  "expire_in": 504576000,
+  "prev": "846eeb64f2c75f977eb63ec18627f8b47e40af517a278df04988b2ddb4abb6bb",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbCq9wy5uC/34CblkuJ6HmX4Jn3kiKlfX8M0sV2Ove6UKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMGRmOTg0NTg1NTIzZDUyMDEyNDc5MmQ5MzZhNjY5OTlmMTQ5MGQwOTlhZmZkYTJkZTRjYzc5NDIzMzUzYTQwMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmMyYWJkYzMyZTZlMGJmZGY4MDliOTY0Yjg5ZTg3OTk3ZTA5OWY3OTIyMmE1N2Q3ZjBjZDJjNTc2M2FmN2JhNTBhIiwidWlkIjoiNjFmNTA1ZWY2YmFkZDZmNTI3YTk4OGRkZDAwMDI2MTkiLCJ1c2VybmFtZSI6ImppbGx1a293aWN6In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4OTMwMjg0LCJoYXNoIjoiNWIyNWQ1YThlYTk5YTQ0MDA2MzRkMzk4ZGRhOTYwMGRiZTU2NjlmYzBkMmFhOWI2MDVmNjI4NTVmYWJlNDRkMDcyYTFhYzdmM2MyN2Y4MjE1YWYyYTAxZWFhYzk2YmEzNDEyZjA3ZDQ1YjI2NmI2OTlkN2NhMDgwZWJhMjUwY2YiLCJoYXNoX21ldGEiOiI5MTdlZjQ1MjJlOTZjZDBlNjczMGZkYTExMTExYTE3OWFlOTU4MDlkM2FjNmE4OGE2YTA0NWU3YjkyMzA3MzkyIiwic2Vxbm8iOjE2MjcxOTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZW5kdHJvZHVjLmluIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwODkzMDMxNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI4NDZlZWI2NGYyYzc1Zjk3N2ViNjNlYzE4NjI3ZjhiNDdlNDBhZjUxN2EyNzhkZjA0OTg4YjJkZGI0YWJiNmJiIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAUW8Si5csNjpRCMLXlNZDkLuAGX1J4VJ8n6H+kwhoA4McmxMTgbAJtLHVPP2QBb6wX+1TKwQfdi3m1+HpJbg7B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGgW4lTsNHAeNkf9ohYFNSMYpmTokrPTwEbvM9DFZ1gAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jillukowicz
+
+==================================================================
